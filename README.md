@@ -15,4 +15,51 @@ The model is trained on structured datasets and evaluated for performance.
 
 ## 📂 Project Structure
 
+| Code
+-- .gitkeep
+-- Bank_Phishing_Detection.ipynb
+-- bank_phishing_detection.py
+| Dataset
+-- .gitkeep
+-- Fishing.xlsx
+-- website-train.xlsx
+.gitignore
+LICENSE
+README.md
+
+
+
+---
+
+## 🧠 Technologies Used
+
+- Python 3.x
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib / Seaborn
+- Jupyter Notebook
+
+---
+
+## 📊 Dataset
+
+The dataset contains structured features extracted from websites such as:
+
+- URL length
+- Presence of special characters
+- HTTPS usage
+- Domain age
+- Redirect behavior
+- And more...
+
+Target:
+- `0` → Legitimate
+- `1` → Phishing
+
+---
+
+## ⚙️ Created By Alireza Shamloo
+Email : a.shamloo1414@gmail.com
+LinkedIn : alireza-shamloo
 
