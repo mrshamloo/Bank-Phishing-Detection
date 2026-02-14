@@ -15,7 +15,7 @@ The model is trained on structured datasets and evaluated for performance.
 
 ## 📂 Project Structure
 
-| Code
+```| Code
 -- .gitkeep
 -- Bank_Phishing_Detection.ipynb
 -- bank_phishing_detection.py
@@ -25,7 +25,7 @@ The model is trained on structured datasets and evaluated for performance.
 -- website-train.xlsx
 .gitignore
 LICENSE
-README.md
+README.md```
 
 
 
